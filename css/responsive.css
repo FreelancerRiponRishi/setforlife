@@ -1,0 +1,1669 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 1200px) and (max-width: 1279px) {
+.container {
+    padding: 0 30px;
+}
+
+.heroright h1 {
+    font-size: 60px;
+    line-height: 72px;
+    padding-bottom: 30px;
+}
+
+.heroleft {
+    height: 485px;
+}
+
+.bigwinlty-part {
+    background-image: initial;
+}
+
+
+.mbbigwinlty-part {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.lifeLotteryoe-left {
+    width: 60%;
+}
+
+.lifeLotteryoe-right {
+    width: 40%;
+}
+
+.playreviews-left p br {
+    display: none;
+}
+
+.pylifeLottery-left p br {
+    display: none;
+}
+
+.playreviews-left p {
+    padding-right: 0px;
+}
+
+.reviewsbox {
+    width: 98%;
+}
+
+.footer-part {
+    display: flex;
+    gap: 50px;
+}
+
+.footer-nav ul li a {
+    font-size: 15px;
+}
+
+.footer-nav ul li {
+    padding-right: 34px;
+}
+
+.footerlogos ul li {
+    margin-right: 16px;
+}
+
+.footerlogos ul li a img {
+    height: 53px;
+}
+
+.topbg {
+    max-width: 37%;
+}
+
+
+.latesthotrlsleft-text h2 {
+    font-size: 28px;
+    line-height: 40px;
+    padding-bottom: 10px;
+}
+
+.latesthotrlsleft-text {
+    height: 445px;
+}
+
+.latesthotrlsrt-item {
+    gap: 40px;
+    border-radius: 20px;
+    padding: 30px 45px;
+    height: 190px;
+}
+
+.latesthotrlsrt-right ul li {
+    font-size: 16px;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    margin-right: 2px;
+}
+
+
+.latesthotrlsrt-box {
+    grid-row-gap: 63px;
+}
+
+
+.latesthotrlsrt-text p {
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+.container {
+    padding: 0 30px;
+}
+
+
+
+.bigwinlty-part {
+    background-image: initial;
+}
+
+
+.mbbigwinlty-part {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+
+
+
+
+.reviewsbox {
+    width: 100%;
+}
+
+.footer-part {
+    display: flex;
+    gap: 50px;
+}
+
+.footer-nav ul li a {
+    font-size: 15px;
+}
+
+
+.footer-nav ul li {
+    padding-bottom: 39px;
+}
+
+.footerlogos ul {
+    padding-top: 93px;
+}
+
+.footer-nav ul li {
+    padding-right: 35px;
+}
+
+.footerlogos ul li {
+    margin-right: 3px;
+}
+
+.footerlogos ul li a img {
+    height: 53px;
+}
+
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 48%;
+}
+
+
+.heropart {
+    gap: 40px;
+}
+
+.heroright h1 {
+    font-size: 50px;
+    line-height: 65px;
+    padding-bottom: 20px;
+}
+
+
+.heroright p br {
+    display: none;
+}
+
+
+.heroright a {
+    margin-top: 30px;
+}
+
+.mainheroleft {
+    position: relative;
+    z-index: 999;
+    margin-top: 0px;
+    padding-top: 33px;
+}
+
+.heroleft {
+    width: 50%;
+    position: relative;
+    height: 418px;
+}
+
+.lifeLotteryoe-part {
+    gap: 40px;
+}
+
+.lifeLotteryoe-left {
+    width: 60%;
+}
+
+.lifeLotteryoe-right {
+    width: 40%;
+}
+
+.lifeLotteryoe-left p {
+    text-align: justify;
+}
+
+.pylifeLottery-left {
+    width: 65%;
+}
+
+.pylifeLottery-right {
+    width: 35%;
+}
+
+.pylifeLottery-left p br {
+    display: none;
+}
+
+.pylifeLottery-part {
+    align-items: end;
+}
+
+.latesthotrls-part {
+    display: block;
+}
+
+.latesthotrlsleft-text {
+    height: initial;
+    margin-bottom: 40px;
+}
+
+.latesthotrls-left {
+    width: 100%;
+}
+
+.latesthotrls-right {
+    width: 100%;
+}
+
+.playreviews-left p {
+    padding-right: 0px;
+}
+
+.playreviews-left p br {
+    display: none;
+}
+
+.givefeedback-btn a {
+    font-size: 20px;
+    width: 281px;
+    height: 54px;
+    display: block;
+    line-height: 54px;
+    margin: auto;
+    margin-right: 0;
+}
+
+.faqleft p {
+    padding-right: 0px;
+}
+
+.ziehharmonika > div {
+    padding: 16px 30px;
+    padding-top: 0px;
+}
+
+
+.newhero-part {
+    gap: 60px;
+}
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.container {
+    padding: 0 30px;
+}
+
+
+.bigwinlty-part {
+    background-image: initial;
+    display: block;
+}
+
+.bigwinlty-left {
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+
+
+
+.mbbigwinlty-part {
+    background-position: bottom;
+}
+
+
+
+.playreviews-part {
+    display: block;
+}
+
+.playreviews-left {
+    width: 100%;
+    margin-bottom: 45px;
+    padding-top: 0px;
+}
+
+
+.playreviews-right {
+    width: 100%;
+    position: relative;
+}
+
+
+.mainfaqpart {
+    display: block;
+}
+
+
+.faqright {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.faqleft {
+    width: 100%;
+}
+
+
+
+
+
+
+.footer-part {
+    display: block;
+}
+
+.footerleft {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.footerright {
+    width: 100%;
+}
+
+.footerlogos ul li {
+    margin-right: 20px;
+}
+
+.footerlogos ul li a img {
+    height: 75px;
+}
+
+.footer-nav ul {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding-bottom: 0px;
+    margin: 0 0px;
+}
+
+.footerlogo-part img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.footertext p {
+    text-align: center;
+}
+
+
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 58%;
+}
+
+
+.heropart {
+    display: block;
+}
+
+.heroleft {
+    width: 669px;
+    position: relative;
+    height: 605px;
+    margin: auto;
+}
+
+.cmheroleft {
+    display: none;
+}
+
+.bmheroleft {
+    display: block;
+}
+
+.heroright {
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+.heroright h1 {
+    font-size: 65px;
+    line-height: 76px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.heroright p {
+    text-align: center;
+}
+
+.heroright a {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 16px 41px;
+    margin: auto;
+    display: block;
+    margin-top: 39px;
+    width: 97px;
+    text-align: center;
+}
+
+.mainheroleft {
+    position: relative;
+    z-index: 999;
+    margin-top: 0px;
+    padding-top: 68px;
+}
+
+.lifeLotteryoe-part {
+    display: block;
+}
+
+
+.lifeLotteryoe-left {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.lifeLotteryoe-right {
+    width: 100%;
+}
+
+.pylifeLottery-part {
+    display: block;
+}
+
+.pylifeLottery-left {
+    width: 100%;
+    padding-bottom: 60px;
+}
+
+.pylifeLottery-right {
+    width: 100%;
+    position: relative;
+    display: grid;
+    align-items: end;
+    justify-content: center;
+}
+
+.pylifeLottery-left p br {
+    display: none;
+}
+
+.latesthotrls-part {
+    display: block;
+}
+
+.latesthotrls-left {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.latesthotrlsleft-text {
+    height: initial;
+}
+
+.latesthotrls-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-item {
+    padding: 30px;
+    gap: 30px;
+}
+
+
+.latesthotrlsrt-right ul li {
+    font-size: 16px;
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    margin-right: 2px;
+}
+
+
+.latesthotrlsrt-text {
+    width: 35%;
+}
+
+.latesthotrlsrt-right {
+    width: 65%;
+}
+
+.latesthotrlsrt-right ul {
+    padding: 15px 20px;
+}
+
+
+.reviewsbox {
+    width: 98%;
+}
+
+.playreviews-area {
+    padding: 80px 0;
+}
+
+
+.givefeedback-part {
+    padding: 45px 45px;
+    padding-bottom: 45px;
+    display: block;
+    margin-bottom: 80px;
+}
+
+
+.givefeedback-text {
+    width: 100%;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.givefeedback-btn {
+    width: 100%;
+}
+
+.givefeedback-btn a {
+    font-size: 19px;    
+    font-weight: 500;
+    width: 330px;
+    height: 60px;
+    border-radius: 10px;
+    display: block;
+    line-height: 60px;
+    margin: auto;
+    margin-right: auto;
+}
+
+
+.faq-heading h2 br {
+    display: none;
+}
+
+.ziehharmonika > div {
+    font-size: 15px;
+    line-height: 27px;
+    padding: 16px 30px;
+    padding-top: 3px;
+}
+
+
+.footerlogos ul {
+    padding-top: 0px;
+    text-align: center;
+}
+
+
+.newhero-part {
+    gap: 45px;
+}
+
+.newhero-left ul li a {
+    font-size: 15px;
+}
+
+.newhero-left ul li.active a {
+    font-size: 18px;
+}
+
+.newhero-left ul li {
+    padding: 20px 0;
+}
+
+.newhero-heading h2 {
+    font-size: 40px;
+    line-height: 41px;
+    padding-bottom: 25px;
+}
+
+.newhero-heading p {
+    font-size: 16px;
+}
+
+.newheroitem1 h3 {
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 18px;
+}
+
+.newheroitem1 p {
+    font-size: 16px;
+}
+
+.newheroitem1 h5 {
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+
+
+.topheader-area {
+    padding: 5px 10px;
+}
+
+
+
+.topheader-left p {
+    font-size: 10px;
+    margin: 0;
+    font-weight: 600;
+    display: flex;
+    text-align: left;
+    line-height: 13px;
+}
+
+
+
+.ziehharmonika > div {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 13px 16px;
+    padding-top: 0px;
+}
+
+
+.header-btn ul li a {
+    font-size: 13px;
+    width: 70px;
+    height: 38px;
+    line-height: 38px;
+    font-weight: 600;
+
+}
+
+.header-btn ul li {
+    padding-left: 5px;
+}
+
+.header-logo {
+    width: 30%;
+}
+
+.header-btn {
+    width: 70%;
+}
+
+.header-btn ul li:nth-child(2) a {
+    width: 80px;
+    height: 36px;
+    line-height: 36px;
+}
+
+.header-btn ul li:nth-child(1) a {
+    font-size: 12px;
+    height: 36px;
+    line-height: 36px;
+    width: 70px;
+}
+
+.header-btn ul li:nth-child(2) a {
+    font-size: 12px;
+}
+
+
+
+.header-logo img {
+    display: block;
+    max-width: 100%;
+}
+
+.playreviews-area {
+    padding: 35px 0;
+    padding-bottom: 35px;
+}
+
+.playreviews-part {
+    display: block;
+}
+
+.playreviews-left {
+    width: 100%;
+    padding-top: 0px;
+}
+
+.playreviews-left h2 {
+    font-size: 25px;
+}
+
+.playreviews-left p {
+    font-size: 14px;
+    line-height: 25px;
+    margin: 0;
+    font-weight: 400;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+.playreviews-left p br {
+    display: none;
+}
+
+.reviewsbox {
+    padding: 35px 20px;
+    width: 100%;
+    border: 1px solid #aaaaaa66;
+}
+
+.playreviews-right {
+    width: 100%;
+    position: relative;
+}
+
+.controls {
+    margin-top: 22px;
+    margin-bottom: 30px;
+}
+
+.faq-area {
+    padding: 40px 0;
+    position: relative;
+}
+
+
+.mainfaqpart {
+    display: block;
+}
+
+.faqleft {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+
+
+
+.faqright {
+    width: 100%;
+}
+
+
+.ziehharmonika h3 {
+    font-size: 16px;
+    padding: 17px 16px;
+}
+
+.ziehharmonika .collapseIcon img {
+    max-width: 76%;
+}
+
+.ziehharmonika .collapseIcon {
+    right: 12px;
+}
+
+
+
+
+.faq-heading h2 {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.faq-heading {
+    padding-bottom: 25px;
+}
+
+.footer-area {
+    padding: 40px 0;
+    padding-bottom: 0px;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footerleft {
+    width: 100%;
+}
+
+.footerright {
+    width: 100%;
+    display: none;
+}
+
+.footertext {
+    padding-top: 30px;
+}
+
+.footertext p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    padding-bottom: 12px;
+}
+
+.footerlogos ul {
+    padding-top: 25px;
+    text-align: left;
+    padding-bottom: 35px;
+}
+
+.footerlogos ul li {
+    display: inline-block;
+    margin-right: 2px;
+    padding-bottom: 0px;
+}
+
+.footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: 37px;
+}
+
+.footer-nav ul {
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+
+.footer-nav ul li {
+    display: block;
+    padding-right: 0;
+    padding-bottom: 25px;
+}
+
+.footer-nav ul li a {
+    font-size: 14px;
+}
+
+
+
+
+.footer-copyright {
+    padding: 12px 5px;
+    margin-top: 10px;
+}
+
+.footer-copyright p {
+    font-size: 12px;
+}
+
+
+.playreviews-area .owl-carousel .owl-stage-outer {
+    padding: 0px;
+}
+
+
+
+.customPrevBtn1 img {
+    height: 14px;
+}
+
+.customNextBtn1 img {
+    height: 14px;
+}
+
+.customPrevBtn1 {
+    width: 60px;
+    height: 34px;
+    line-height: 38px;
+    border: 1px solid #000;
+}
+
+
+.customNextBtn1 {
+    width: 60px;
+    height: 34px;
+    line-height: 38px;
+    border: 1px solid #000;
+}
+
+.playreviews-area .owl-nav {
+    bottom: 34px;
+    z-index: 99;
+    right: 22px;
+    gap: 7px;
+}
+
+
+.num {
+    font-size: 16px;
+}
+
+.controls {
+    gap: 10px;
+}
+
+
+
+
+.popuppart {
+    width: 300px;
+    display: block;
+    margin: auto;
+    height: initial;
+}
+
+.popupleft {
+    width: 100%;
+    display: none;
+}
+
+
+
+.popupright {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    align-items: center;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    margin-left: 0px;
+    position: relative;
+    z-index: 9;
+}
+
+
+.popupform-heading h3 {
+    font-size: 18px;
+}
+
+.popupform-heading p {
+    font-size: 12px;
+}
+
+.popupform-item1 {
+    display: block;
+}
+
+.ppform-item1-left {
+    width: 100%;
+}
+
+.ppform-item1-right {
+    width: 100%;
+}
+
+.popupformitems p {
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 18px;
+}
+
+.popupformitems input {
+    font-size: 12px;
+    width: 100%;
+    padding: 10px 10px;
+    outline: none;
+    margin-bottom: 6px;
+    height: inherit;
+}
+
+.popupformitems input::placeholder {
+    font-size: 12px;
+}
+
+.popupform-heading {
+    padding-bottom: 15px;
+}
+
+
+.popupformitems h6 {
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+
+.popupformitems input[type="submit"] {
+    font-size: 14px;
+    padding: 14px 14px;
+    margin-bottom: 0px;
+}
+
+.toggle-password img {
+    width: 15px;
+    height: 15px;
+}
+
+.toggle-password {
+    right: 6px;
+    top: 9px;
+}
+
+.checkmark {
+    top: 4px;
+    height: 14px;
+    width: 14px;
+    border-radius: 0px;
+}
+
+.checkboxpart .checkmark:after {
+    left: 5px;
+    top: 1px;
+    width: 3px;
+    height: 8px;
+}
+
+.checkboxpart {
+    padding-left: 23px;
+    font-size: 12px;
+    padding-right: 0px;
+    line-height: 24px;
+}
+
+.popupform-item3 h5 {
+    font-size: 10px;
+    padding-top: 18px;
+}
+
+.close-btn img {
+    width: 18px;
+    height: 18px;
+}
+
+.close-btn {
+    width: 35px;
+    height: 35px;
+    top: -4px;
+    right: -4px;
+}
+
+.popupform-logo img {
+    width: 119px;
+    height: 119px;
+    display: block;
+    margin: auto;
+}
+
+.rbmeftpd-right p a {
+    font-size: 12px;
+}
+
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 80%;
+}
+
+
+
+
+.container {
+    padding: 0 16px;
+}
+
+
+.hero-area {
+    padding: 40px 0;
+}
+
+.heropart {
+    display: block;
+}
+
+
+.heroleft {
+    width: 288px;
+    position: relative;
+    height: 260px;
+    display: block;
+    margin: auto;
+}
+
+
+.bmheroleft {
+    display: block;
+}
+
+.cmheroleft {
+    display: none;
+}
+
+.heroright {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.heroright h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 50px;
+    padding-bottom: 15px;
+}
+
+.heroright a {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 26px;
+    display: inline-block;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+
+
+.mainheroleft {
+    margin-top: 0px;
+    padding-top: 17px;
+}
+
+.herolefttext p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    margin: 0;
+    padding-top: 12px;
+}
+
+
+
+
+
+.timer span {
+    font-size: 16px;
+    line-height: 38px;
+    width: 36px;
+    height: 38px;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.timer {
+    gap: 5px;
+    padding-top: 9px;
+}
+
+.timer p {
+    font-size: 9px;
+}
+
+.herolefttext h2 {
+    font-size: 65px;
+    line-height: 44px;
+}
+
+.herolefttext h6 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-top: 6px;
+}
+
+.herolefttext h3 {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 23px;
+    margin-top: 8px;
+}
+
+.lifeLotteryoe-area {
+    padding: 40px 0;
+}
+
+.lifeLotteryoe-part {
+    display: block;
+}
+
+
+
+.lifeLotteryoe-left {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.lifeLotteryoe-right {
+    width: 100%;
+}
+
+
+.lifeLotteryoe-left h2 {
+    font-size: 25px;
+    line-height: 30px;
+    padding-bottom: 15px;
+}
+
+.lifeLotteryoe-left p {
+    font-size: 14.3px;
+    line-height: 28px;
+    margin: 0;
+}
+
+.lifeLotteryoeitem {
+    padding: 20px 15px;
+    border-radius: 15px;
+    height: 106px;
+    padding-right: 15px;
+}
+
+.lifeLotteryoeitem h3 {
+    font-size: 17px;
+    margin: 0;
+    line-height: 26px;
+}
+
+.lifeLotteryoeitem p {
+    font-size: 12px;
+    line-height: 20px;
+    padding-top: 0px;
+}
+
+.lifeLotteryoe-boxs {
+    grid-row-gap: 20px;
+}
+
+.lifeLotteryoeitem img {
+    height: 80px;
+}
+
+.pylifeLottery-part {
+    display: block;
+}
+
+
+.pylifeLottery-left {
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.pylifeLottery-right {
+    width: 100%;
+}
+
+
+.pylifeLottery-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.pylifeLottery-left h2 {
+    font-size: 25px;
+    line-height: 38px;
+    padding-bottom: 15px;
+}
+
+.pylifeLottery-left p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+.pylifeLottery-left p br {
+    display: none;
+}
+
+.pylifeLottery-left a {
+    font-size: 14px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 20px;
+}
+
+
+.latesthotrls-area {
+    padding: 40px 0;
+}
+
+.latesthotrls-part {
+    display: block;
+}
+
+.latesthotrls-left {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.latesthotrlsleft-text {
+    border-radius: 15px;
+    padding: 20px;
+    height: initial;
+}
+
+.latesthotrlsleft-text h2 {
+    font-size: 24px;
+    margin: 0;
+    line-height: 39px;
+    padding-bottom: 12px;
+}
+
+.latesthotrlsleft-text p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.latesthotrls-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-item {
+    display: block;
+    border-radius: 15px;
+    padding: 30px 15px;
+    height: initial;
+}
+
+.latesthotrlsrt-text {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.latesthotrlsrt-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-text h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.latesthotrlsrt-text p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 16px;
+}
+
+
+.latesthotrlsrt-right ul li {
+    font-size: 13px;
+    border: 1px solid #0087A9;
+    width: 27px;
+    height: 27px;
+    line-height: 27px;
+    margin-right: 0px;
+}
+
+.latesthotrlsrt-right ul {
+    padding: 10px 10px;
+}
+
+.latesthotrlsrt-box {
+    grid-row-gap: 30px;
+}
+
+.pylifeLottery-area {
+    padding: 0px 0;
+    padding-top: 40px;
+}
+
+.reviewsboxoitem1 img {
+    height: 26px;
+}
+
+.reviewsboxoitem2 p {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.reviewsboxoitem2 p br {
+    display: none;
+}
+
+.reviewsboxoitem1 {
+    padding-bottom: 20px;
+}
+
+.reviewsuser-img {
+    width: 60px;
+    height: 60px;
+    display: block;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.reviewsuser-text p {
+    font-size: 15px;
+}
+
+.reviewsuser-text p img {
+    height: 18px;
+    margin-right: 7px;
+}
+
+.reviewsuser-text h3 {
+    font-size: 14px;
+    padding-top: 8px;
+}
+
+.givefeedback-part {
+    border-radius: 15px;
+    padding: 20px 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-bottom: 60px;
+}
+
+.givefeedback-text {
+    width: 100%;
+}
+
+.givefeedback-btn {
+    width: 100%;
+}
+
+.givefeedback-text h2 {
+    font-size: 20px;
+}
+
+.givefeedback-text p {
+    font-size: 13px;
+    padding-top: 12px;
+}
+
+.givefeedback-btn a {
+    font-size: 14px;
+    width: 141px;
+    height: 38px;
+    border-radius: 10px;
+    display: block;
+    line-height: 38px;
+    margin: auto;
+    margin-right: auto;
+    margin-left: 0;
+    margin-top: 25px;
+}
+
+.faqleft p {
+    font-size: 14px;
+    line-height: 25px;
+    margin: 0;
+    font-weight: 400;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+
+.faqleft ul li {
+    margin-right: 5px;
+}
+
+.faqleft ul li a {
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px 12px;
+}
+
+.responsiblegambling-area {
+    padding: 40px 0;
+    padding-bottom: 40px;
+}
+
+.responsiblegambling-part h2 {
+    font-size: 25px;
+    line-height: 35px;
+    padding-bottom: 20px;
+}
+
+
+.responsiblegambling-part p {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 23px;
+    padding-bottom: 15px;
+}
+
+.responsiblegambling-part p br {
+    display: none;
+}
+
+.footerlogo-part img {
+    height: 37px;
+}
+
+.cmfooterlogos {
+    display: block;
+}
+
+
+.popupform-hd h2 {
+    font-size: 28px;
+}
+
+.popupform-hd {
+    padding-bottom: 18px;
+}
+
+.heroright p br {
+    display: none;
+}
+
+.heroright p {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.newherott-area {
+    padding: 40px 0;
+}
+
+.newhero-part {
+    display: block;
+    gap: 0;
+}
+
+.newhero-left {
+    width: 100%;
+    margin-bottom: 65px;
+}
+
+.newhero-left ul li {
+    padding: 17px 0;
+}
+
+.newhero-left ul li a {
+    font-size: 14px;
+}
+
+.newhero-left ul li.active a {
+    font-size: 16px;
+}
+
+.newhero-right {
+    width: 100%;
+}
+
+.newhero-heading h2 {
+    font-size: 30px;
+    line-height: 35px;
+    padding-bottom: 16px;
+}
+
+.newhero-heading p {
+    font-size: 16px;
+}
+
+
+.newhero-heading {
+    padding-bottom: 40px;
+}
+
+.newheroitem1 h3 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    padding-bottom: 14px;
+}
+
+.newheroitem1 p {
+    font-size: 15px;
+    margin: 0;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+.newheroitem1 p br {
+    display: none;
+}
+
+.newheroitem1 h5 {
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+
+}
